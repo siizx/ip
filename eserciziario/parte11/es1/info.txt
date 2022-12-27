@@ -1,0 +1,7 @@
+Compilare separatamente libreria e programma di test e linkarli:
+–
+–
+–
+g++ -std=c++14 -Wall -c hello.cpp
+g++ -std=c++14 -Wall -c hellotest.cpp
+g++ hello.o hellotest.o -o hellotest1

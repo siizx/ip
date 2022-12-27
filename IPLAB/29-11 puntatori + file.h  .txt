@@ -1,0 +1,3 @@
+Nei file.h ci vanno SOLO i prototipi delle funzioni.
+alla compilazione dal terminale, non bisogna menzionare i file.h perche sono gia menzionati ed inclusi nei file.cpp
+
